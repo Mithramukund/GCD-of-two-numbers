@@ -32,7 +32,8 @@ def gcd():
 ```
 
 ## Output:
-![Screenshot (1)](https://user-images.githubusercontent.com/121608770/214827260-d327d9fa-a5f3-42f4-8c9f-5043298fb244.png)
+![Screenshot (1)](https://user-images.githubusercontent.com/121608770/214827965-c182132b-b4fe-4c7f-b7df-6fca9893a933.png)
+
 
 
 
